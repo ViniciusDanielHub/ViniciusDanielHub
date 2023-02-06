@@ -65,6 +65,6 @@
 <div align="center">
     <h3 align="center">Connect with me in</h3>
     <a  href="https://https://github.com/ViniciusDanielHub">
-        <img align="center" alt="Vinicius Vieira | Github" width="40px"  src="https://github.com/ViniciusDanielHub/ViniciusVieira/blob/main/img/github.png" />
+        <img align="center" alt="Vinicius Vieira | Github" width="40px"  src="https://github.com/ViniciusDanielHub/ViniciusDanielHub/blob/main/img/github.png" />
     </a>
 </div>
