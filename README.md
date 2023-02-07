@@ -14,7 +14,7 @@
     <img align="center" alt="HTML5" src="https://github.com/ViniciusDanielHub/ViniciusDanielHub/blob/main/.github/workflows/github-contribution-grid-snake.svg" /> 
     <br />
     <br />
-     <img align="center" width="367" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDanielHub&layout=compact&theme=algolia" alt="Vinicius Vieira's github stats" />
+     <img align="center" width="367" src="https://bit.ly/3wYHrCr" alt="Vinicius Vieira's github stats" />
 </div>
     
 <br />
