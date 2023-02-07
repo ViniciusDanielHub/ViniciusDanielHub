@@ -16,15 +16,6 @@
     <br />
      <img align="center" width="367" src="https://bit.ly/3wYHrCr" alt="Vinicius Vieira's github stats" />
 </div>
-    
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 <div align="center">
    <h3>Languages and Tools:</h3>
